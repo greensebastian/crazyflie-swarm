@@ -1,0 +1,9 @@
+[submodule "crazyflie-swarm-python"]
+	path = crazyflie-swarm-python
+	url = https://github.com/greensebastian/crazyflie-swarm-python.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/bitcraze/crazyflie-firmware.git
+[submodule "crazyflie-swarm-simulink"]
+	path = crazyflie-swarm-simulink
+	url = https://github.com/greensebastian/crazyflie-swarm-simulink.git
